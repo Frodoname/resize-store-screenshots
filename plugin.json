@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "resize-store-screenshots",
+  "version": "0.2.0",
+  "description": "Prepare exact-size App Store screenshots from images or ZIP files with a portable Python workflow.",
+  "author": {"name": "Frodoname", "url": "https://github.com/Frodoname"},
+  "repository": "https://github.com/Frodoname/resize-store-screenshots"
+}
