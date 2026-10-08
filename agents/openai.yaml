@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resize Store Screenshots"
+  short_description: "Resize App Store screenshots to exact pixel sizes"
+  default_prompt: "Use $resize-store-screenshots to resize these screenshots for the App Store Connect size I provide."
